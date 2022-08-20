@@ -1,3 +1,4 @@
+# Password Generator
 In this project, I implemented 3 different js functions: getOptions, getRandom, and generatePassword.\
 For the getOptions function, I prompted the user about how many characters they wanted for their password and made sure it met requirements with special cases. I added confirm functions to determine which character types the user wanted and made sure they picked at least 1. Then I created a list of variables under a variable options in order to call them into generate password later on.\
 getRandom generates a random element inside an array and returns the element, which allows for complete random password.\
